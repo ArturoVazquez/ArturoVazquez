@@ -2,7 +2,7 @@
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">¡Hola! Soy Arturo Vázquez Paumard</h2>
 
-### 👨🏻‍💻 &nbsp;Sobre Mí
+### 👨🏻‍💻 &nbsp;Sobre Mí 
 
 👨‍🎓 &nbsp;Recién graduado en Desarrollo de Aplicaciones Multiplataforma (DAM).\
 💡 &nbsp;Apasionado por aprender nuevas tecnologías y desarrollar soluciones prácticas.\
