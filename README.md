@@ -1,4 +1,4 @@
-![Arturo Vázquez Paumard Banner](https://github.com/ArturoVazquez/ArturoVazquez/blob/main/banner.png)
+
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left"> ¡Hola! Soy Arturo Vázquez Paumard</h2>
 
