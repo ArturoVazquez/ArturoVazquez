@@ -1,4 +1,6 @@
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left"> ¡Hola! Soy Arturo Vázquez Paumard</h2>
 
@@ -13,7 +15,6 @@
 ✉️ &nbsp;Puedes escribirme a [arturovazquez1995@gmail.com](mailto:arturovazquez1995@gmail.com).\
 📄 &nbsp;Echa un vistazo a mi [CV](https://1drv.ms/b/c/fd9b329802f87695/EUNfuSe3BAJImMIejHUdjzMBqO0YgOiWEskCZ9GPXrO4Zw?e=n4Fcxh) para más detalles.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
