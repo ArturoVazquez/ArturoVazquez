@@ -4,9 +4,9 @@
 
 ### 👨🏻‍💻 &nbsp;Sobre Mí 
 
-👨‍🎓 &nbsp;Recién graduado en Desarrollo de Aplicaciones Multiplataforma (DAM).\
+👨‍🎓 &nbsp;Graduado en Desarrollo de Aplicaciones Multiplataforma (DAM).\
 💡 &nbsp;Apasionado por aprender nuevas tecnologías y desarrollar soluciones prácticas.\
-🌱 &nbsp;Actualmente aprendiendo más sobre Java, Spring Boot y arquitecturas backend.\
+🌱 &nbsp;Actualmente aprendiendo más sobre JavaSript | React | Node.js  .\
 ✍️ &nbsp;Me gusta explorar el desarrollo web y la administración de bases de datos.\
 💬 &nbsp;No dudes en contactarme para intercambiar ideas y colaborar en proyectos interesantes.\
 ✉️ &nbsp;Puedes escribirme a [arturovazquez1995@gmail.com](mailto:arturovazquez1995@gmail.com).\
