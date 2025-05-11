@@ -7,7 +7,7 @@
 ### 👨🏻‍💻 &nbsp;Sobre Mí 
 
 👨‍🎓 &nbsp;Desarrollador Web con experiencia en frontend y backend.\
-🔧 &nbsp;Experiencia en desarrollo backend y frontend, trabajando con tecnologías web y bases de datos.\
+🔧 &nbsp;He trabajado con tecnologías web y bases de datos, desarrollando soluciones tanto en la parte visual como en la lógica del servidor.\
 💡 &nbsp;Enfocado en construir soluciones funcionales, mantenibles y orientadas a resultados.  
 ✍️ &nbsp;Interesado en todo lo relacionado con el desarrollo de software, bases de datos (relacionales y no relacionales), y entornos colaborativos.\
 🚀 &nbsp;En constante aprendizaje y abierto a nuevos retos técnicos.\
