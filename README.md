@@ -7,9 +7,9 @@
 ### 👨🏻‍💻 &nbsp;Sobre Mí 
 
 👨‍🎓 &nbsp;Desarrollador Web con experiencia en frontend y backend.\
-🔧 &nbsp;Experiencia en desarrollo backend y frontend, trabajando con tecnologías web y bases de datos.\  
+🔧 &nbsp;Experiencia en desarrollo backend y frontend, trabajando con tecnologías web y bases de datos.\
 💡 &nbsp;Enfocado en construir soluciones funcionales, mantenibles y orientadas a resultados.  
-✍️ &nbsp;Interesado en todo lo relacionado con el desarrollo de software, bases de datos (relacionales y no relacionales), y entornos colaborativos.\  
+✍️ &nbsp;Interesado en todo lo relacionado con el desarrollo de software, bases de datos (relacionales y no relacionales), y entornos colaborativos.\
 🚀 &nbsp;En constante aprendizaje y abierto a nuevos retos técnicos.\
 💬 &nbsp;No dudes en contactarme para intercambiar ideas y colaborar en proyectos interesantes.\
 ✉️ &nbsp;Puedes escribirme a [arturovazquez1995@gmail.com](mailto:arturovazquez1995@gmail.com).\
