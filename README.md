@@ -4,7 +4,7 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 
-<h2> Sobre Mí <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px> 👨🏻‍💻 </h2>
+<h2> Sobre Mí  👨🏻‍💻 </h2>
 
 👨‍🎓 &nbsp;Desarrollador Web con experiencia en frontend y backend.\
 🔧 &nbsp;He trabajado con tecnologías web y bases de datos, desarrollando soluciones tanto en la parte visual como en la lógica del servidor.\
