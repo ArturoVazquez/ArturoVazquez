@@ -17,7 +17,7 @@
 ✍️ &nbsp;Interesado en todo lo relacionado con el desarrollo de software, bases de datos (relacionales y no relacionales), y entornos colaborativos.\
 🚀 &nbsp;En constante aprendizaje y abierto a nuevos retos técnicos.\
 💬 &nbsp;No dudes en contactarme para intercambiar ideas y colaborar en proyectos interesantes.\
-✉️ &nbsp;Puedes escribirme a [arturovazquez1995@gmail.com](mailto:arturovazquez1995@gmail.com).\
+📫 &nbsp;Puedes escribirme a [arturovazquez1995@gmail.com](mailto:arturovazquez1995@gmail.com).\
 📄 &nbsp;Echa un vistazo a mi [CV](https://1drv.ms/b/c/fd9b329802f87695/EUNfuSe3BAJImMIejHUdjzMBqO0YgOiWEskCZ9GPXrO4Zw?e=n4Fcxh) para más detalles.
 
 <h2> 🛠 &nbsp;Tech Stack </h2>
