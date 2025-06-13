@@ -78,8 +78,13 @@
 <h2 align="center"> Conecta conmigo <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/arturo-david-v%C3%A1zquez-paumard-a9066b172/"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/></a>
-<a href="mailto:arturovazquez1995@gmail.com"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/gmail.svg" alt="Gmail" width="40" height="40"/></a>
-<a href="https://github.com/ArturoVazquez"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/github.svg" alt="GitHub" width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/arturo-david-vázquez-paumard-a9066b172/">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="mailto:arturovazquez1995@gmail.com">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/gmail.svg" alt="Gmail" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/ArturoVazquez">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/github.svg" alt="GitHub" width="40" height="40"/>
   </a>
 </p>
