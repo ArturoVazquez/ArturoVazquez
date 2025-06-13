@@ -27,7 +27,7 @@
 <h2> 🛠 &nbsp;Tech Stack </h2>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,angular,tailwind,bootstrap,php,nodejs,java,cpp" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,angular,tailwind,bootstrap,php,nodejs,npm,java,maven,cpp" />
 </p>
 
 <br>
@@ -78,7 +78,8 @@
 <h2 align="center"> Conecta conmigo <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/arturo-david-v%C3%A1zquez-paumard-a9066b172/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:arturovazquez1995@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/ArturoVazquez"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/arturo-david-v%C3%A1zquez-paumard-a9066b172/"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/></a>
+<a href="mailto:arturovazquez1995@gmail.com"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/gmail.svg" alt="Gmail" width="40" height="40"/></a>
+<a href="https://github.com/ArturoVazquez"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/github.svg" alt="GitHub" width="40" height="40"/>
+  </a>
 </p>
