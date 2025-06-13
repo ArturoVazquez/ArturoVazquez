@@ -27,7 +27,7 @@
 <h2> 🛠 &nbsp;Tech Stack </h2>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,tailwind,bootstrap,php,nodejs,java,cpp" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,angular,tailwind,bootstrap,php,nodejs,java,cpp" />
 </p>
 
 <br>
