@@ -15,9 +15,7 @@
 ✉️ &nbsp;Puedes escribirme a [arturovazquez1995@gmail.com](mailto:arturovazquez1995@gmail.com).\
 📄 &nbsp;Echa un vistazo a mi [CV](https://1drv.ms/b/c/fd9b329802f87695/EUNfuSe3BAJImMIejHUdjzMBqO0YgOiWEskCZ9GPXrO4Zw?e=n4Fcxh) para más detalles.
 
-
-### 🛠 &nbsp;Tech Stack
-
+<h2> 🛠 &nbsp;Tech Stack </h2>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -28,21 +26,21 @@
 ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 
-
-### 🗃 &nbsp;Bases de Datos
+<h2> 🗃 &nbsp;Bases de Datos </h2>
 
 ![MySQL](https://img.shields.io/badge/mysql-%234ea94b.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![AWS](https://img.shields.io/badge/aws-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
 
-### 🧰 &nbsp;Herramientas y Control de Versiones
+
+<h2> 🧰 &nbsp;Herramientas y Control de Versiones </h2>
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
+<h2> ⚙️ &nbsp;GitHub Analytics </h2>
 
 <p align="center">
   <a href="https://github.com/ArturoVazquez">
