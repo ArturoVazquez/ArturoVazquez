@@ -1,6 +1,9 @@
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left"> ¡Hola! Soy Arturo Vázquez Paumard</h2>
 
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
 
 
@@ -14,10 +17,6 @@
 💬 &nbsp;No dudes en contactarme para intercambiar ideas y colaborar en proyectos interesantes.\
 ✉️ &nbsp;Puedes escribirme a [arturovazquez1995@gmail.com](mailto:arturovazquez1995@gmail.com).\
 📄 &nbsp;Echa un vistazo a mi [CV](https://1drv.ms/b/c/fd9b329802f87695/EUNfuSe3BAJImMIejHUdjzMBqO0YgOiWEskCZ9GPXrO4Zw?e=n4Fcxh) para más detalles.
-
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
 
 
 ### 🛠 &nbsp;Tech Stack
