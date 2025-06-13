@@ -79,12 +79,12 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arturo-david-vázquez-paumard-a9066b172/">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/png/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:arturovazquez1995@gmail.com">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/png/gmail.png" alt="Gmail" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://github.com/ArturoVazquez">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/png/github.png" alt="GitHub" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
