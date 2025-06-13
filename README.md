@@ -60,6 +60,49 @@
 <br>
 <hr>
 
+<hr>
+
+<h2> 🚀 Proyectos Destacados </h2>
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ArturoVazquez/MVPCamperNature" target="_blank">
+        <img src="https://user-images.githubusercontent.com/9102529/276943506-6f09efbb-fec7-4ff3-a56f-4be79d084631.png" width="300px" alt="CamperNature"/>
+        <br><strong>🌲 CamperNature</strong>
+      </a>
+      <br>
+      <sub>Sitio web real con reservas, login seguro, y panel de administración en Node.js + React</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ArturoVazquez/react-dashboard-graficas" target="_blank">
+        <img src="https://user-images.githubusercontent.com/9102529/276944790-50f50861-3c25-4e4b-a2bb-9fe0034ee12d.png" width="300px" alt="Dashboard React"/>
+        <br><strong>📊 Dashboard React</strong>
+      </a>
+      <br>
+      <sub>Dashboard con Recharts, filtros dinámicos y estilos con Bootstrap</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ArturoVazquez/react-login-context" target="_blank">
+        <img src="https://user-images.githubusercontent.com/9102529/276945216-0836eaae-10b8-4c4b-9ca4-4763fe5fd09b.png" width="300px" alt="Login Persistente"/>
+        <br><strong>🔐 Login Persistente</strong>
+      </a>
+      <br>
+      <sub>Autenticación con React Context + LocalStorage + edición de perfil</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ArturoVazquez/formulario-reservas" target="_blank">
+        <img src="https://user-images.githubusercontent.com/9102529/276945641-83707ce3-3283-4d4d-8f6c-fccdd26a02cb.png" width="300px" alt="Formulario reservas"/>
+        <br><strong>📅 Formulario de Reservas</strong>
+      </a>
+      <br>
+      <sub>Formulario multi-vista en React con validación y control de fechas</sub>
+    </td>
+  </tr>
+</table>
+
 <h2> 📈 &nbsp;GitHub Analytics </h2>
 
 <p align="center">
