@@ -15,6 +15,10 @@
 ✉️ &nbsp;Puedes escribirme a [arturovazquez1995@gmail.com](mailto:arturovazquez1995@gmail.com).\
 📄 &nbsp;Echa un vistazo a mi [CV](https://1drv.ms/b/c/fd9b329802f87695/EUNfuSe3BAJImMIejHUdjzMBqO0YgOiWEskCZ9GPXrO4Zw?e=n4Fcxh) para más detalles.
 
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
 
 ### 🛠 &nbsp;Tech Stack
 
