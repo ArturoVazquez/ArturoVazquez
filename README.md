@@ -37,7 +37,12 @@
 <h2> 🧰 &nbsp;Herramientas y Control de Versiones </h2>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,aws,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman" />
+</p>
+
+<h2> ☁️ &nbsp;Cloud & DevOps </h2>
+<p>
+  <img src="https://skillicons.dev/icons?i=aws" />
 </p>
 
 
