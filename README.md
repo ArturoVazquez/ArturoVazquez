@@ -37,7 +37,7 @@
 <h2> 🧰 &nbsp;Herramientas y Control de Versiones </h2>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,eclipse,intellij,aws,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,eclipse,aws,postman" />
 </p>
 
 
