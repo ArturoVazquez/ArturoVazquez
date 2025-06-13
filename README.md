@@ -54,7 +54,7 @@
   </a>
 </p>
 
-### <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> &nbsp;Conecta Conmigo
+<h2> Conecta conmigo <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/arturo-david-v%C3%A1zquez-paumard-a9066b172/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
