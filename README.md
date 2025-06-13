@@ -6,10 +6,10 @@
 
 <Br>
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
 
 <h2> Sobre Mí  👨🏻‍💻 </h2>
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 👨‍🎓 &nbsp;Desarrollador Web con experiencia en frontend y backend.\
 🔧 &nbsp;He trabajado con tecnologías web y bases de datos, desarrollando soluciones tanto en la parte visual como en la lógica del servidor.\
