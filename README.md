@@ -300,7 +300,6 @@ Más allá del código
 - Complejidad porque sí
 - Tecnología sin un problema real detrás
 - Datos sin procedencia
-- Demos que nunca abandonan localhost
 ```
 
 ---
