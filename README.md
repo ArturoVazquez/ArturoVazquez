@@ -6,9 +6,8 @@
 
 **Construyo software, mapas y herramientas para entender sistemas complejos.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arturo_Vázquez-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/arturo-david-vázquez-paumard-a9066b172/)
-[![GitHub](https://img.shields.io/badge/GitHub-ArturoVazquez-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ArturoVazquez)
-[![Email](https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:arturovazquez1995@gmail.com)
+[![Atlas Estratégico](https://img.shields.io/badge/Atlas_Estratégico-Explorar-1F6FEB?style=for-the-badge)](https://atlas.eltercioviejo.com/)
+[![Gemelo Digital](https://img.shields.io/badge/Gemelo_Digital-Badajoz-238636?style=for-the-badge)](https://gemelodigitalprovincia.badajoz.es/)
 
 </div>
 
@@ -301,6 +300,7 @@ Más allá del código
 - Complejidad porque sí
 - Tecnología sin un problema real detrás
 - Datos sin procedencia
+- Demos que nunca abandonan localhost
 ```
 
 ---
